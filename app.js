@@ -50,7 +50,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "REMMEI DEJONLUNGPOU RONGMEI",
     roll: "NDUI-BScCS-007", course: "B.Sc. Computer Science", section: "BSc CS",
-    meme: null, reason: null },
+    meme: dejon-bsccs-007-meme, reason: relatable },
   { name: "RUNIO THONI",
     roll: "NDUI-BScCS-008", course: "B.Sc. Computer Science", section: "BSc CS",
     meme: null, reason: null },
