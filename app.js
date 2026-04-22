@@ -390,7 +390,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "RAJKUMAR ANDY",
     roll: "NDUIBC2550", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "./images/NDUIBC2550.webp", reason: "The last benchers in a nutshell" },
   { name: "VICTOR OINAM",
     roll: "NDUIBC2551", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
