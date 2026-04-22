@@ -291,7 +291,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "NONGMAITHEM BORISH SINGH",
     roll: "NDUIBC2517", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "./images/boriish.png", reason: "not everyone is funny" },
   { name: "DANGSHAWA KANYOULHUNG",
     roll: "NDUIBC2518", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
