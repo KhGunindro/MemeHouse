@@ -452,7 +452,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "BISHONATH WAIROKPAM",
     roll: "NDUIBC2571", course: "BCA (4 Years)", section: "SECTION C",
-    meme: null, reason: null },
+    meme: images/hams.jfif, reason: cute and funny },
   { name: "RAJKUMAR SULEN",
     roll: "NDUIBC2572", course: "BCA (4 Years)", section: "SECTION C",
     meme: null, reason: null },
