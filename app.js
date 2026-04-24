@@ -551,7 +551,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "YUN AWUNGSHI",
     roll: "NDUIBC2605", course: "BCA (4 Years)", section: "SECTION C",
-    meme: null, reason: null },
+    meme: "images/Yun, 2605, BCA-2C", reason: "Because I lOVE BTS" },
   { name: "CHIITHUZHIINI",
     roll: "NDUIBC2606", course: "BCA (4 Years)", section: "SECTION C",
     meme: null, reason: null },
