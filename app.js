@@ -330,7 +330,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "NAOREM NARISH SINGH",
     roll: "NDUIBC2530", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "./images/NanasiMeme.jpeg", reason: "Huh, noob goodluck" },
   { name: "LAISHRAM GOUTAM MEITEI",
     roll: "NDUIBC2531", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
