@@ -402,7 +402,7 @@ const STUDENTS = [
     meme: "./images/henthoiba_meme.webp", reason: "daily mid-night crisis before sleeping" },
   { name: "DENIS YUMNAM",
     roll: "NDUIBC2554", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "images/NDUIBC2554.jpg", reason: "Peak procrastination." },
   { name: "SHADOKPAM PARITON MEITEI",
     roll: "NDUIBC2555", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
