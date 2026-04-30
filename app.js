@@ -53,7 +53,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "RUNIO THONI",
     roll: "NDUI-BScCS-008", course: "B.Sc. Computer Science", section: "BSc CS",
-    meme: null, reason: null },
+    meme: "images/NDUIBSCCS008.jpg", reason: "when your parents gifts you an irresistible smile."},
   { name: "ANGOM THOUNGAMBA MEITEI",
     roll: "NDUI-BScCS-009", course: "B.Sc. Computer Science", section: "BSc CS",
     meme: null, reason: null },
