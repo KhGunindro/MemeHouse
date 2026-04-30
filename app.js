@@ -351,7 +351,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "KONTHOUJAM THOMSON SINGH",
     roll: "NDUIBC2537", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "./images/7f9vxf.jpg", reason:"first meme"  },
   { name: "IBUNGOCHOUBA HAOBAM",
     roll: "NDUIBC2538", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
