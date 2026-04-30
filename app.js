@@ -175,6 +175,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "KONING MOSHILNING",
     roll: "NDUIBC2476", course: "BCA (4 Years)", section: "Section A",
+    meme: "./image/komo.webp", reason: "What to do" }, 
     meme: null, reason: null },
   { name: "CHONGTHAM IDEA SINGH",
     roll: "NDUIBC2477", course: "BCA (4 Years)", section: "Section A",
