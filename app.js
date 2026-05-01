@@ -169,7 +169,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "LONGJAM RONIBALA DEVI",
     roll: "NDUIBC2474", course: "BCA (4 Years)", section: "Section A",
-    meme: null, reason: null },
+    meme: "images/NDUIBC2474.png", reason: "funny"},
   { name: "SHITAM SINGH",
     roll: "NDUIBC2475", course: "BCA (4 Years)", section: "Section A",
     meme: null, reason: null },
